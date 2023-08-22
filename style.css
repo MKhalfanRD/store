@@ -1,10 +1,13 @@
-* {
-    padding-bottom: 2%;
+
+.content-wrapper{
+    display: flex;
+    justify-content: center;
 }
 
-body {
-    padding: 10%;
+.content-detail{
+    width: 70%;
 }
+
 
 .card-link {
     text-decoration: none;
@@ -13,10 +16,12 @@ body {
 header,
 section {
     background-color: antiquewhite;
+    padding: 2%;
 }
 
 .wa {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 5%;
 }
