@@ -1,0 +1,22 @@
+* {
+    padding-bottom: 2%;
+}
+
+body {
+    padding: 10%;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+header,
+section {
+    background-color: antiquewhite;
+}
+
+.wa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
